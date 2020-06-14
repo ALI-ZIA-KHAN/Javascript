@@ -17,6 +17,7 @@ console.log("--c",c)
 var c=6
 c--
 console.log("c--",c)
+/**Difference is not clear till now bcz it is visible when u use third variable, then check the difference ,eg below one*/
 
 
 var e=6
